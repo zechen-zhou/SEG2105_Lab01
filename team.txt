@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Zechen
-=======
 Lina
 Tori
 Zechen
->>>>>>> adcbf0e5634f12d2f4d3cc5976e1e1442cada93b
