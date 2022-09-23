@@ -1,1 +1,2 @@
 Tori (edit)
+--testing if email is configured correctly
